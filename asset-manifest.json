@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto_order_book/static/css/main.9eef7fe5.css",
+    "main.js": "/crypto_order_book/static/js/main.ea805154.js",
+    "index.html": "/crypto_order_book/index.html",
+    "main.9eef7fe5.css.map": "/crypto_order_book/static/css/main.9eef7fe5.css.map",
+    "main.ea805154.js.map": "/crypto_order_book/static/js/main.ea805154.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eef7fe5.css",
+    "static/js/main.ea805154.js"
+  ]
+}
