@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+  background-color: rgb(40, 40, 41);
+  -webkit-tap-highlight-color: transparent;
+  font-family: BinancePlex,Arial,sans-serif!important;
+  color: rgb(255, 255, 255);
+}
+
+.App {
+  text-align: center;
+}
+
+.tables{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.tables > div{
+  width: 700px;
+}
+
+.select{
+  display: flex;
+  justify-content: space-around;
+}
+
+.select > div{
+  width: 500px;
+  margin-top: 25px;
+} 
+
+
+
+
